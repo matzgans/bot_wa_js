@@ -1,4 +1,4 @@
 node_modules/
-.wwebjs_auth/
-src/authMiddleware.js
+#.wwebjs_auth/
+#src/authMiddleware.js
 .gitignore

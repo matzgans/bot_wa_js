@@ -1,0 +1,6 @@
+2025/03/11-17:06:08.945 4be0 Reusing MANIFEST D:\skripsi\project\wweb-bot\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/03/11-17:06:08.946 4be0 Recovering log #12
+2025/03/11-17:06:08.946 4be0 Reusing old log D:\skripsi\project\wweb-bot\.wwebjs_auth\session\Default\Local Storage\leveldb/000012.log 
+2025/03/11-17:16:22.066 39d0 Level-0 table #17: started
+2025/03/11-17:16:22.069 39d0 Level-0 table #17: 21934 bytes OK
+2025/03/11-17:16:22.070 39d0 Delete type=0 #12
